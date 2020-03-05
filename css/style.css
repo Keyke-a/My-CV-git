@@ -1,0 +1,14 @@
+.a
+{color: rosybrown; text-align: center;}
+.b
+{color: rgb(58, 57, 57);border-bottom: solid black; font-display: arial;}
+#c
+{color: black;}
+
+body
+{margin: 5%;padding: 5%;
+border-style: solid;}
+.d
+{text-underline-position: below;}
+*
+{background-color: blanchedalmond;}
